@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 I’m a Computer Science Engineer focused on scalable SaaS platforms, cloud-native architectures, and applied AI/ML solutions.  
-I build high-performance systems with **Next.js**, **React**, **Laravel**, **PostgreSQL**, **Docker**, and **Kubernetes**, achieving sub-200ms APIs and 95% faster load times.  
+I build high-performance systems with **Next.js**, **React**, **Laravel**, **PostgreSQL**, **Docker**, and **Kubernetes**.  
 I’m passionate about **system design**, **clean architecture**, and **automation** across the full software lifecycle—from concept to deployment.
 
 ---
@@ -43,13 +43,14 @@ I’m passionate about **system design**, **clean architecture**, and **automati
 
 ### 📫 Contact
 📧 [e.souala@esi-sba.dz](mailto:e.souala@esi-sba.dz)  
-💼 [LinkedIn](#) | 💻 [GitHub](#)
+📧 [hoceynesouala@gmail.com](mailto:hoceynesouala@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/hoceyne/)
 
 ---
 
 ### ⚡ Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greghori101&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greghori101&layout=compact&theme=github_dark)
 
 ---
 
