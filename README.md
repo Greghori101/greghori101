@@ -23,9 +23,7 @@ Thesis: Real-Time Autospares Detection Using Deep Learning
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greghori101&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greghori101&layout=compact&theme=github_dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greghori101&commits_year=2020)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Greghori101&theme=github-dark&hide_border=true)
 
