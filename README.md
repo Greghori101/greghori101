@@ -18,13 +18,3 @@ Higher School of Computer Science (ESI-SBA), Algeria
 Sep 2019 – Oct 2024  
 
 Thesis: Real-Time Autospares Detection Using Deep Learning
-
----
-
-## GitHub Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greghori101&commits_year=2020)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Greghori101&theme=github-dark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Greghori101&style=flat)
